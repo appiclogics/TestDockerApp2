@@ -1,5 +1,6 @@
 var builder = WebApplication.CreateBuilder(args);
 
+//Just another CI/CD test
 // Add services to the container.
 builder.Services.AddRazorPages();
 
